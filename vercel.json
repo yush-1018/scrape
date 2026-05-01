@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd price-tracker/frontend && npm install && npm run build",
-  "installCommand": "echo 'Skipping root install'",
-  "outputDirectory": "price-tracker/frontend/dist",
-  "framework": "vite"
-}
