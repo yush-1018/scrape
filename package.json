@@ -1,0 +1,7 @@
+{
+  "name": "scraper-root",
+  "private": true,
+  "scripts": {
+    "build": "cd price-tracker/frontend && npm install && npm run build"
+  }
+}
